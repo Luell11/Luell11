@@ -29,4 +29,4 @@ I'm an Information Technology student with hands-on experience in web developmen
 ## 🤝 Connect With Me
 
 - GitHub: [@Luell11](https://github.com/Luell11)
-- LinkedIn:[Your LinkedIn Profile](YOUR_LINKEDIN_URL)(https://www.linkedin.com/in/exequiel-jorge-464951312/)
+- LinkedIn:[Your LinkedIn Profile](https://www.linkedin.com/in/exequiel-jorge-464951312/)
