@@ -1,32 +1,68 @@
 
-# Hi, I'm Exequiel Jorge 👋
+<h1 align="center">Hi, I'm Exequiel Jorge 👋</h1>
 
-### Information Technology Student | Aspiring IT Professional
+<h3 align="center">Information Technology Student | Aspiring IT Professional</h3>
 
-I'm an Information Technology student with hands-on experience in web development, database management, and system development through academic and capstone projects. I'm passionate about technology, continuous learning, and building practical solutions.
+<p align="center">
+  Passionate about technology, software development, databases, and building practical solutions.
+</p>
 
-## 🛠️ Technologies & Tools
+---
 
-- **Programming Languages:** Python, JavaScript, PHP, Java
-- **Web Development:** HTML, CSS, Flask
-- **Database:** MySQL, SQL
-- **Tools & Platforms:** Git, GitHub, Render, Aiven
+### 👨‍💻 About Me
 
-## 🚀 Featured Projects
+- 🎓 Information Technology student.
+- 💻 Experienced in developing web-based applications and database-driven systems.
+- ☁️ Hands-on experience deploying applications using Render and Aiven.
+- 🌱 Continuously learning and exploring different areas of technology.
+- 🎯 Interested in Web Development, Software Engineering, and Data Technologies.
 
-- **Student Burnout Risk Prediction System** – A web-based student wellness assessment and risk classification system.
-- **FreshMart E-Commerce System** – A web-based mini-grocery e-commerce and inventory management system.
-- **Aircon Management System** – An academic system development project.
-- **Library Management System** – A Java-based library management application.
+### 🛠️ Technologies & Tools
 
-## 📚 Currently Learning
+**Programming Languages**
 
-- Software Engineering
-- Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php,java" />
+</p>
+
+**Web Development & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| Student Burnout Risk Prediction System | Student wellness assessment and risk classification platform | Python, Flask, MySQL, JavaScript |
+| FreshMart E-Commerce System | Mini-grocery e-commerce and inventory management system | PHP, MySQL, HTML, CSS, JavaScript |
+| Library Management System | Application for managing library records and transactions | Java |
+| JavaScript Activities | Collection of beginner JavaScript programming activities | JavaScript, HTML |
+
+### 📚 Currently Learning
+
+- Software Development
+- Web Technologies
 - Database Management
-- Data Technologies
+- Data Engineering Concepts
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
-- GitHub: [@Luell11](https://github.com/Luell11)
-- LinkedIn: [@exequieljorge](https://www.linkedin.com/in/exequiel-jorge-464951312/)
+<p>
+  <a href="https://github.com/Luell11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
